@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 📖 blogsa - Turn your git repository to your own blog!
 
-You can use the [editor on GitHub](https://github.com/blogsa/org/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+blogsa is free, open source, blog project. You can use your own git repository for your hosting. There is no need to additional configuration to create your blog. You can also use free deployment services like Heroku to publish your blog in seconds!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It is so simple to install. 
 
-### Markdown
+We have made a deployment file to test your own blog on Heroku! It is easy. Just click "Deploy to Heroku" button.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a href="https://heroku.com/deploy?template=https://github.com/blogsa/core/tree/master">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 
-```markdown
-Syntax highlighted code block
+Sample Blog repository is also [here](https://github.com/blogsa/blog).
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blogsa/org/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Help us to spread and develop this project faster and greater. 😊
